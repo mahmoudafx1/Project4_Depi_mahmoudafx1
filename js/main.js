@@ -19,4 +19,3 @@ function convertDollar() {
 
   return false;
 }
-
