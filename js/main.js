@@ -1,5 +1,5 @@
 function convertDollar() {
-  var x = document.getElementById("dollar").value();
+  var x = document.getElementById("dollar").value;
   var result = document.getElementById("result");
 
   var num = Number(x);
@@ -19,3 +19,4 @@ function convertDollar() {
 
   return false;
 }
+
